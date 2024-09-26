@@ -5,7 +5,8 @@
 Welcome to the **LinkedIn Job Market Dashboard**, a comprehensive tool designed to explore the job market trends, highest-paying roles, in-demand skills, and top companies. This dashboard visualizes key insights from LinkedIn job postings, helping users understand the current job landscape and identify lucrative op!
 portunities based on salary, skills, and geographical data.
 
-[Dashboard](https://github.com/user-attachments/assets/df9213d3-06c1-4f70-bbdb-a41f3be6dc56)
+![Dashboard](https://github.com/user-attachments/assets/d9075db6-e135-4ea2-b4f5-31fc693ed511)
+
 
 ## Table of Contents
 
